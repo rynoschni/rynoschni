@@ -1,7 +1,8 @@
-<head>
+---
+
+---
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
   <link rel="stylesheet" href="styles.css">
-</head>
 
 <h1 align="center">Hi 👋, I'm Ryan Schniederjan</h1>
 <h3 align="center">A passionate Full-Stack developer from Houston, TX</h3>
