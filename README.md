@@ -1,6 +1,4 @@
 
-  <link rel="stylesheet" type="text/css" media="all" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
-  <link rel="stylesheet" type="text/css" media="all" href="styles.css">
 
 <h1 align="center">Hi 👋, I'm Ryan Schniederjan</h1>
 <h3 align="center">A passionate Full-Stack developer from Houston, TX</h3>
@@ -52,7 +50,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> -->
-  <a href="https://aws.amazon.com" target="_blank"> <i class="devicon-amazonwebservices-plain-wordmark xl" alt="Amazon Web Services Icon"></i> </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60"/>
+  </a>
   <!-- <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> -->
   <a href="https://getbootstrap.com" target="_blank"> <i class="devicon-bootstrap-plain colored xl" alt="Bootstrap Icon"></i> </a>
