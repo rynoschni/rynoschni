@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Ryan Schniederjan</h1>
 <h3 align="center">A passionate Full-Stack developer from Houston, TX</h3>
 <!-- 
@@ -51,49 +49,71 @@
 <p align="left"> 
   <!-- <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> -->
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>
   <!-- <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> -->
-  <a href="https://getbootstrap.com" target="_blank"> <i class="devicon-bootstrap-plain colored xl" alt="Bootstrap Icon"></i> </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
   <!-- <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
   <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> -->
-  <a href="https://www.w3schools.com/css/" target="_blank"> <i class="devicon-css3-plain colored xl" alt="CSS 3 Icon"></i> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  </a>
   <!-- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> -->
-  <a href="https://expressjs.com" target="_blank"> <i class="devicon-express-original xl" alt="ExpressJS Icon"></i> </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:white" />
+  </a>
   <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
   <!-- <a href="https://gulpjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> -->
   <a href="https://www.w3.org/html/" target="_blank">
-    <i class="devicon-html5-plain colored xl" alt="html5"></i>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <i class="devicon-javascript-plain colored xl" alt="Javascript Icon"></i>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
-  <a href="https://www.mongodb.com/" target="_blank"><i class="devicon-mongodb-plain-wordmark colored xl" alt="MongoDB Icon"></i></a>
-  <a href="https://nodejs.org" target="_blank"><i class="devicon-nodejs-plain colored xl" alt="NodeJS Icon"></i></a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+  </a>
   <!-- <a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> -->
   <a href="https://www.adobe.com/products/premiere.html?promoid=PQ7SQBYQ&mv=other" target="_blank">
-    <i class="devicon-premierepro-plain colored xl" alt="Premiere Pro Icon"></i>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere" width="50" height="50"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank"><i class="devicon-photoshop-plain colored xl" alt="Photoshop Icon"></i></a>
-  <a href="https://www.php.net" target="_blank"><i class="devicon-php-plain colored xl" alt="PHP Icon"></i></a>
-  <a href="https://www.postgresql.org" target="_blank"><i class="devicon-postgresql-plain colored xl" alt="PostgreSQL Icon"></i></a>
+  <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50"/>
+  </a>
+  <!-- <a href="https://www.php.net" target="_blank"><i class="devicon-php-plain colored xl" alt="PHP Icon"></i></a> -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="50" height="50"/>
+  </a>
   <!-- <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> -->
-  <a href="https://www.python.org" target="_blank"><i class="devicon-python-plain colored xl" alt="Python Icon"></i></a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
   <!-- <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> -->
-  <a href="https://reactjs.org/" target="_blank"><i class="devicon-react-original colored xl" alt="ReactJS Icon"></i></a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>native </a>
-  <a href="https://redux.js.org" target="_blank"><i class="devicon-redux-original colored xl" alt="Redux"></i></a>
-   <a href="https://redux.js.org" target="_blank"><i class="devicon-typescript-original colored xl" alt="Redux"></i></a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+  </a>
+  <!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>native </a>
+  <a href="https://redux.js.org" target="_blank"><i class="devicon-redux-original colored xl" alt="Redux"></i></a> -->
+  <a href="https://redux.js.org" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+  </a>
   <!-- <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> -->
