@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ryans_pa_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ryans_pa_dev?logo=twitter&style=for-the-badge" alt="ryans_pa_dev" /></a> </p> -->
 
-- 🔭 I’m currently working on [SquadMate](https://squatemate.app)
+- 🔭 I’m currently working on [Pelairo](https://www.pelairo.com)
 
 - 🌱 I’m currently learning **React Native, Redux, Python**
 <!--
