@@ -7,15 +7,15 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ryans_pa_dev" target="blank"><img src="https://img.shields.io/twitter/follow/ryans_pa_dev?logo=twitter&style=for-the-badge" alt="ryans_pa_dev" /></a> </p> -->
 
-- 🔭 I’m currently working on [Pelairo](https://www.pelairo.com)
+- 🔭 I’m currently working on [Pelairo](https://www.pelairo.com), a HL7 FHIR native, LIS software system.
 
-- 🌱 I’m currently learning **React Native, Redux, Python**
+- 🌱 I’m currently learning **HL7 FHIR, Typescript, NextJS, and Figma**
 <!--
 - 👯 I’m looking to collaborate on ["project name"](https://code-blooded-dev.surge.sh) -->
 <!--
 - 🤝 I’m looking for help with ["project name"](https://code-blooded-dev.surge.sh) -->
 
-- 👨‍💻 All of my projects are available at [ryanschniederjan.com](https://techryno.com)
+- 👨‍💻 Checkout my portfolio at [ryanschniederjan.com](https://ryanschniederjan.com)
 
 <!-- - 📝 I regulary write articles on [Link TO Blog](Link TO Blog)
 
@@ -31,7 +31,7 @@
 <!-- <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/codepen username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen username" height="30" width="40" /></a>
 <a href="https://dev.to/dev. to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev. to username" height="30" width="40" /></a> -->
-<a href="https://twitter.com/nosudo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nosudo_" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/nosudo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nosudo_" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/stackoverflow user id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandbox username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox username" height="30" width="40" /></a>
